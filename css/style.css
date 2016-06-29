@@ -771,7 +771,7 @@
 	#header
 	{
 		position: relative;
-		background: url(../images/background.png) no-repeat bottom center;
+		background: url(../images/background.PNG) no-repeat bottom center;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
